@@ -99,7 +99,7 @@ function App() {
           <label htmlFor="category">Category</label>
           <select
             ref={categoryEl}
-            className="rounded-lg m-2 p-1 text-orange-700"
+            className="rounded-lg m-2 p-1 text-blue-950"
             id="category"
           >
             {categories.map((category) => (
@@ -119,7 +119,7 @@ function App() {
             step={1}
             defaultValue={10}
             ref={amountEl}
-            className="rounded p-1 m-2 text-rose-600"
+            className="rounded p-1 m-2 text-blue-950"
           />
         </div>
         <div className="form-group">

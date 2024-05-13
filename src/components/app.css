@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(243, 201, 145);
+  background-color: #fff9f9;
   margin: 0;
 }
 .header {
@@ -16,8 +16,8 @@ body {
 }
 
 .form-group > label {
-  color: #8795a1;
-  font-size: 0.75rem;
+  color: #121314;
+  font-size: 1rem;
   margin-bottom: 0.25rem;
   margin-left: 1rem;
 }
@@ -142,8 +142,8 @@ body {
   transform: rotateY(180deg);
   width: 100%;
   height: 100%;
-  font-size: 16px;
-  color: #eb0b0b;
+  font-size: 20px;
+  color: #fff;
   align-items: center;
   background: #212121;
   box-shadow: 15px 15px 30px rgb(25, 25, 25), -15px -15px 30px rgb(60, 60, 60);
